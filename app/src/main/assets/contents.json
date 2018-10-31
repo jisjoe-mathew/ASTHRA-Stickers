@@ -1,0 +1,54 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "ASTHRA Stickers",
+      "publisher": "IODevelopers",
+      "tray_image_file": "asthra_logo.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "asthra.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "cs_go.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "flutter_workshop.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "idea_pitching_competition.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mini_hackathon.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "photography.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "tecq_quiz.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "test_your_memory.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "treasure_hunt.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+  ]
+}
