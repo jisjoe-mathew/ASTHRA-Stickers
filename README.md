@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android Stickers Apps for WhatsApp
 
 ## Overview
@@ -139,3 +140,13 @@ The result is in a row corresponding to the column named `result`. The value wil
 Note that a pack can be added to either the main WhatsApp app, WhatsApp Business, or both. It is recommended you continue to present a button to add the pack to WhatsApp if the sticker pack is not added to one or more of the apps. Refer to the class [WhitelistCheck](app/src/main/java/com/example/samplestickerapp/WhitelistCheck.java) for sample logic.
 
 Your app can only query whether the packs it provides have been added and it can't check for information about sticker packs from other apps.
+=======
+# WhatsApp Stickers
+
+If you'd like to create your own stickers for WhatsApp, you can package them in an Android or iOS app. You can publish your sticker app like any other app to the Google Play Store or Apple App Store, and users who download and install your app will be able to start sending those stickers right away from within WhatsApp. Stickers on WhatsApp must be legal, authorized and acceptable. Learn more about acceptable uses of our services from our [Terms of Service](https://www.whatsapp.com/legal/#terms-of-service).
+
+To get started, review the README files in the [android](https://github.com/WhatsApp/stickers/tree/master/android) or [iOS](https://github.com/WhatsApp/stickers/tree/master/iOS) folders, and refer to the FAQ at https://faq.whatsapp.com/general/26000226.
+
+## License
+WhatsApp Stickers is BSD licensed, as found in the LICENSE file.
+>>>>>>> 8465bbc3e7e3001cdb4112d522e1ea0a04088219
